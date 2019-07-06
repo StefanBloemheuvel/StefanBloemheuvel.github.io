@@ -1,1 +1,6 @@
-some sample text
+# Academic page
+
+## Publications
+
+### 2019
+
