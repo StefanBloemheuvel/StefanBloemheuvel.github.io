@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Publications
-permalink: /publications/
+permalink: /Publications/
 ---
 # List of publications:
 
