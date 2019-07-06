@@ -6,7 +6,7 @@
 
 #### 2019
 
-Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller. Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs [Accepted]
+Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller. Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs in 17th Int. Conference on Business Process Management (BPM 2019) [Accepted]
 
 Stefan Bloemheuvel, Martin Atzmueller and Marie Postma. Stratification-oriented analysis of community structure in networks of face-to-face proximity in Mining Ubiquitous and Social Interaction Networks
 
