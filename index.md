@@ -1,29 +1,14 @@
-## Portfolio
+## Academic Page
 
 ---
 
-### Category Name 1 
+### Publications 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### 2019
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller: Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs [Accepted]
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### 2018
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+Stefan Bloemheuvel, Martin Atzmueller and Marie Postma: Evolution of Contacts and Communities in Social Interaction Networks of Face-to-Face Proximity Proc. BNAIC 2018, Jheronimus Academy of Data Science, Den Bosch, The Netherlands
 
