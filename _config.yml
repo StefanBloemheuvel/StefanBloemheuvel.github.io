@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Currently started my PhD at JADS in the Di-Plast project.
   <br><br>
-  My PhD is in the area of analyzing machine behavior in factories using data analytics under supervision of Martin Atzmueller.  
+  My PhD is in the area of industrial machine analysis using data analytics under supervision of Martin Atzmueller.  
   <br><br>
   
 theme: jekyll-theme-minimal
