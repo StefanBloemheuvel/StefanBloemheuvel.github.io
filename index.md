@@ -1,6 +1,6 @@
-# Academic page
+Academic page
 
-## Publications
+Publications
 
-### 2019
+2019
 

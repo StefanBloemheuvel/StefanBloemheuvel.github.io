@@ -1,3 +1,4 @@
 name : Stefan Bloemheuvel
 title: Stefan Bloemheuvel
-layout: post
+theme: jekyll-theme-minimal
+show_downloads: ['false']
