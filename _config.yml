@@ -1,7 +1,7 @@
 # Site settings
-title: Butane Jekyll Theme
+title: Stefan Bloemheuvel
 description: >
-    This is an example of the Butane Jekyll Theme created by Alex Carpenter
+    Academic Page
 author: Stefan Bloemheuvel
 email: s.d.bloemheuvel@tue.nl
 baseurl: "" # the subpath of your site, e.g. /blog
