@@ -6,6 +6,8 @@
 
 #### 2019
 
+Martin Atzmueller, Stefan Bloemheuvel and Benjamin Klöpper. A Framework for Human-Centered Exploration of Complex Event Log Graphs in the 22nd International Conference on Discovery Science (DS2019)
+
 Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller. Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs in 17th Int. Conference on Business Process Management (BPM 2019) [Accepted]
 
 Stefan Bloemheuvel, Martin Atzmueller and Marie Postma. Stratification-oriented Analysis of Community Structure in Networks of face-to-face Proximity. Mining Ubiquitous and Social Interaction Networks
