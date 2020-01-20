@@ -1,15 +1,15 @@
 title: Stefan Bloemheuvel # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently started my PhD at JADS in the Di-Plast project.
+  PhD @ JADS in the Di-Plast project.
   <br><br>
   My PhD is focussed on using graph analysis on industrial data, under supervision of Dr. Habil. Martin Atzmueller. 
   <br><br>
   I am analysing time-series data, supply / demand data & more with help of graphs.
-  In Mathematics, graph theory focusees on a collection of items connected by edges. 
+  In Mathematics, graph theory focusses on a collection of items connected by edges. 
   Using graphs as a data structure has been used in many fields, such as: drug discovery, the internet and neuroscience.
   <br><br>
-  During the next 4 years, i will try to investigate the potential of using graphs in the manufacturing industry.
+  During the next 4 years, I will try to investigate the potential of using graphs in the manufacturing industry.
   <br><br>
   <b>Contact</b>: s.d.bloemheuvel@jads.nl  
 theme: jekyll-theme-minimal
