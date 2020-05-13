@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   My PhD is focussed on using graph analysis on industrial / sensor data, under supervision of Dr. Habil. Martin Atzmueller. 
   <br><br>
   In Mathematics, graph theory focusses on a collection of items connected by edges. 
-  With help of Graph Signal Processing, we can both use the numerical information from time-series data as well as the topological information that is apparent the graph.
+  With help of Graph Signal Processing, we can both use the numerical information from time-series data as well as the topological information that is apparent in the graph.
   <br><br>
   <b>Contact</b>: s.d.bloemheuvel@jads.nl  
 theme: jekyll-theme-minimal
