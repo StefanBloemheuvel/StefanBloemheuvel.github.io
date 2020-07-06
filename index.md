@@ -7,7 +7,7 @@
 #### 2020
 
 Stefan Bloemheuvel, Jurgen van den Hoogen, Martin Atzmueller. Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry [TALK]
-##### test
+<sup>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller</sup>
 
 #### 2019
 
