@@ -6,14 +6,16 @@
 
 #### 2020
 
-Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry [TALK]<br>
-<sup>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller</sup>
+Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry [INSNA Sunbelt]<br>
+<sup>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. <br>
+INSNA International Conference on Social Networks</sup>
 
 #### 2019
 
-Stefan Bloemheuvel, Benjamin Kloepper, Jurgen van den Hoogen and Martin Atzmueller. Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities. DBDBD 2019 [TALK]
+Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities. DBDBD 2019 [TALK]<br>
+<sup>Stefan Bloemheuvel, Benjamin Kloepper, Jurgen van den Hoogen and Martin Atzmueller</sup>
 
-Martin Atzmueller, Stefan Bloemheuvel and Benjamin Klöpper: A Framework for Human-Centered Exploration of Complex Event Log Graphs. 22nd International Conference on Discovery Science.
+A Framework for Human-Centered Exploration of Complex Event Log Graphs. 22nd International Conference on Discovery Science.
 
 Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller. Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs. 17th International Conference on Business Process Management (BPM 2019)
 
