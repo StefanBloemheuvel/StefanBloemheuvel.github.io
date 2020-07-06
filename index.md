@@ -12,8 +12,9 @@ Complex Network Modeling of Supply & Demand Data: An Application Case in the Pla
 
 #### 2019
 
-Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities. DBDBD 2019 [TALK]<br>
+Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities<br>
 <sup>Stefan Bloemheuvel, Benjamin Kloepper, Jurgen van den Hoogen and Martin Atzmueller</sup>
+<sup>DBDBD 2019</sup>
 
 A Framework for Human-Centered Exploration of Complex Event Log Graphs<br>
 <sup>Martin Atzmueller, Stefan Bloemheuvel & Benjamin Kloepper</sup>
