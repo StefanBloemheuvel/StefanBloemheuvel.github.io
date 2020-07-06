@@ -6,7 +6,7 @@
 
 #### 2020
 
-<span style="color:blue">Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry</span> [INSNA Sunbelt]<br>
+<span style="color:lightblue">Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry</span> [INSNA Sunbelt]<br>
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. INSNA International Conference on Social Networks</sub>
 
 
