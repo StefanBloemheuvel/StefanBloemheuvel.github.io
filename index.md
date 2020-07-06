@@ -15,19 +15,19 @@ Complex Network Modeling of Supply & Demand Data: An Application Case in the Pla
 Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities. DBDBD 2019 [TALK]<br>
 <sup>Stefan Bloemheuvel, Benjamin Kloepper, Jurgen van den Hoogen and Martin Atzmueller</sup>
 
-A Framework for Human-Centered Exploration of Complex Event Log Graphs
+A Framework for Human-Centered Exploration of Complex Event Log Graphs<br>
 <sup>Martin Atzmueller, Stefan Bloemheuvel & Benjamin Kloepper</sup>
 <sup>International Conference on Discovery Science</sup>
 
-Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs
+Graph Summarization for Computational Sensemaking on Complex Industrial Event Logs<br>
 <sup>Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller</sup>
 <sup>17th International Conference on Business Process Management (BPM 2019)</sup>
 
-Stratification-oriented Analysis of Community Structure in Networks of face-to-face Proximity 
+Stratification-oriented Analysis of Community Structure in Networks of face-to-face Proximity <br>
 <sup>Stefan Bloemheuvel, Martin Atzmueller and Marie Postma</sup>
 <sup>Mining Ubiquitous and Social Interaction Networks</sup>
 #### 2018
 
-Evolution of Contacts and Communities in Social Interaction Networks of Face-to-Face Proximity Proc
+Evolution of Contacts and Communities in Social Interaction Networks of Face-to-Face Proximity Proc<br>
 <sup>Stefan Bloemheuvel, Martin Atzmueller and Marie Postma</sup>
 <sup>BNAIC 2018</sup>
