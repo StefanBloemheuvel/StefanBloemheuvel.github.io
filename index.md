@@ -1,6 +1,6 @@
 ## Academic Page
 
-- [Project 1 Title](stefanbloemheuvel.github.io/sample_page)
+- [Graph Signal Processing - Project Page](https://stefanbloemheuvel.github.io/sample_page)
 ---
 
 ### Publications 
