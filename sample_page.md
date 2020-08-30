@@ -22,7 +22,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-![Alt Text](/images/logo.png?raw=true)
+![Alt Text](https://github.com/StefanBloemheuvel/StefanBloemheuvel.github.io/blob/master/images/vibrationtest.gif?raw=true)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
