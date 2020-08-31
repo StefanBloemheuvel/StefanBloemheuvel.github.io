@@ -1,8 +1,12 @@
-## This can be your internal website page / project page
+## Graph Signal Processing on Complex Networks for Structural Health Monitoring
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In this work, we demonstrate the applications of \emph{Graph Signal Processing} (GSP) in a \emph{Structural Health Monitoring} (SHM) setting. 
+By analyzing a large bridge equipped with strain and vibration sensors, we show that GSP is capable of selecting the most important sensors, detecting mode shapes and in general grasp the physical function of the sensors in the network. 
+For the sampling, several optimization techniques to select the best set of sensors are utilized, of which the top-down hill climber performs best. 
+In the case of mode shape investigation, we detect several distinct mode shapes in the data. 
+The obtained results prove the functionality of GSP in handling complex sensor data.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. We propose the modeling options taken for making the real-world dataset applicable for GSP using a complex network representation.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,7 +16,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. We present comprehensive analysis results, regarding sensor network modeling in a resource-aware way, aiming towards a minimal set of sensors for reconstructing the given signal
 
 ```javascript
 if (isAwesome){
@@ -20,13 +24,8 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. We provide modeling results on signal pattern and event identification
 
 ![Alt Text](https://github.com/StefanBloemheuvel/StefanBloemheuvel.github.io/blob/master/images/vibrationtest.gif?raw=true)
 ![Alt Text](https://github.com/StefanBloemheuvel/StefanBloemheuvel.github.io/blob/master/images/vibrations.gif?raw=true)
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
