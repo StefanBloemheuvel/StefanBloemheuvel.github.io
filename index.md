@@ -7,7 +7,7 @@
 
 #### 2020
 
-<span style="color:blue">Graph Signal Processing on Complex Networksfor Structural Health Monitoring</span> <br>
+<span style="color:blue">Graph Signal Processing on Complex Networks for Structural Health Monitoring</span> <br>
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. [UNDER REVIEW]</sub>
 
 <span style="color:blue">Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry</span> <br>
