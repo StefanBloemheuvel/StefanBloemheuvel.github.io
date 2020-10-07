@@ -4,6 +4,8 @@
 
 #### 2020
 
+# 2014, The year of [Blue](#)
+
 <span style="color:blue">Graph Signal Processing on Complex Networks for Structural Health Monitoring</span> <br>
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. [UNDER REVIEW]</sub>
 
