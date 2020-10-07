@@ -1,11 +1,5 @@
 ## Academic Page
 
-
-### Project pages
-
-- [Graph Signal Processing - Project Page](https://stefanbloemheuvel.github.io/GSP_bridge)
----
-
 ### Publications 
 
 #### 2020
@@ -39,3 +33,7 @@
 <span style="color:blue">Evolution of Contacts and Communities in Social Interaction Networks of Face-to-Face Proximity Proc</span><br>
 <sup>Stefan Bloemheuvel, Martin Atzmueller and Marie Postma</sup>
 <sup>BNAIC 2018</sup>
+
+### Talks
+
+INSNA Sunbelt Conference, 2020
