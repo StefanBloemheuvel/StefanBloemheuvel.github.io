@@ -1,5 +1,8 @@
 ## Academic Page
 
+
+### Project pages
+
 - [Graph Signal Processing - Project Page](https://stefanbloemheuvel.github.io/GSP_bridge)
 ---
 
