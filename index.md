@@ -38,6 +38,6 @@
 
 INSNA Sunbelt Conference, 2020
 
-### miscellaneous
+### Miscellaneous
 
 Subreviewer for the Complex Networks Conference
