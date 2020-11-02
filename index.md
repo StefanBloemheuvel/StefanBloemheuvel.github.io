@@ -1,16 +1,18 @@
-## Academic Page
+# Academic Page
 
-### Publications 
+## Publications 
 
+## PhD
 #### 2020
 
 <span style="color:blue">Graph Signal Processing on Complex Networks for Structural Health Monitoring</span> <br>
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. Complex Networks Conference</sub>
+#### 2019
 
 <span style="color:blue">Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry</span> <br>
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller. INSNA International Conference on Social Networks</sub>
 
-
+## Pre-PhD
 #### 2019
 
 <span style="color:blue">Enhancing Sequential Pattern Mining Explainability with Markov chain Probabilities</span> <br>
