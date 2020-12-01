@@ -37,7 +37,7 @@
 <sup>Stefan Bloemheuvel, Benjamin Klöpper and Martin Atzmueller</sup><br>
 <sup>17th International Conference on Business Process Management (BPM 2019)</sup>
 
-<span style="color:blue">Stratification-oriented Analysis of Community Structure in Networks of face-to-face Proximity</span> <br><br>
+<span style="color:blue">Stratification-oriented Analysis of Community Structure in Networks of face-to-face Proximity</span> <br>
 <sup>Stefan Bloemheuvel, Martin Atzmueller and Marie Postma</sup><br>
 <sup>Mining Ubiquitous and Social Interaction Networks</sup>
 #### 2018
