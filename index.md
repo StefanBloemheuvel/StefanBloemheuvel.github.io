@@ -9,6 +9,11 @@
 <sub>Stefan Bloemheuvel, Jurgen van den Hoogen & Martin Atzmueller.</sub><br>
 <sub> Complex Networks Conference</sub><br>
 
+<span style="color:blue">An Improved Wide-Kernel CNN for Classifying Multivariate Signals in Fault Diagnosis</span> <br>
+<sub>Jurgen van den Hoogen, Stefan Bloemheuvel & Martin Atzmueller.</sub><br>
+<sub> ICDMW</sub><br>
+
+
 #### 2019
 
 <span style="color:blue">Complex Network Modeling of Supply & Demand Data: An Application Case in the Plastics Recycling Industry</span> <br>
