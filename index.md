@@ -54,6 +54,6 @@ LWDA 2019
 DBDBD 2019
 BNAIC 2018
 
-### Miscellaneous
+### Misc
 
 Subreviewer for the Complex Networks Conference
