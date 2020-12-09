@@ -46,7 +46,7 @@
 <sup>Stefan Bloemheuvel, Martin Atzmueller and Marie Postma</sup><br>
 <sup>BNAIC 2018</sup>
 
-### Talks
+## Talks
 
 INSNA Sunbelt 2020 <br>
 BPM 2019<br>
@@ -54,6 +54,6 @@ LWDA 2019<br>
 DBDBD 2019<br>
 BNAIC 2018<br>
 
-### Misc
+## Misc
 
 Subreviewer for the Complex Networks Conference
