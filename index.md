@@ -48,11 +48,11 @@
 
 ### Talks
 
-INSNA Sunbelt 2020
-BPM 2019
-LWDA 2019
-DBDBD 2019
-BNAIC 2018
+INSNA Sunbelt 2020 <br>
+BPM 2019<br>
+LWDA 2019<br>
+DBDBD 2019<br>
+BNAIC 2018<br>
 
 ### Misc
 
